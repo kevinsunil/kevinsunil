@@ -34,6 +34,7 @@ I'm a student from India, currently pursuing my BTech in Computer Science. Feel 
 <a href="https://www.instagram.com/kevin.s.george/">
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
 <br />
 
 **Languages and Tools:**  
